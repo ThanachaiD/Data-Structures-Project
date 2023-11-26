@@ -51,3 +51,9 @@ Listbox ใน Tkinter ถูกใช้เพื่อแสดงรายก
 <img width="409" alt="9" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/6c1b612a-5a14-487e-aef8-61a585c38077">  <img width="406" alt="10" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/71b7f16f-7c1e-4091-901d-5d207559dd5f">
 <img width="406" alt="11" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/cada3737-1515-4ad8-be35-11efaedafb95">  <img width="407" alt="12" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/6fd84156-4d58-464c-a823-430500173b6f">
 <img width="409" alt="13" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/0e5ef44f-cd81-4d36-9984-7d0467c89887">
+
+การ next หรือ Previous แล้วกด Show Word เพื่อแสดงคำศัพท์
+
+<img width="406" alt="14" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/c4d0a791-b435-4478-ac3d-fe05318645f2">  <img width="404" alt="15" src="https://github.com/ThanachaiD/Data-Structures-Project/assets/148684074/37b7dc44-fded-422d-96a3-58babc2fb911">
+
+
